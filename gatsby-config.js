@@ -79,7 +79,7 @@ module.exports = {
         short_name: `VP`,
         start_url: `/`,
         background_color: `#000`,
-        theme_color: `#663399`,
+        theme_color: `#000`,
         display: `minimal-ui`,
         icon: `content/assets/favicon.png`,
       },
